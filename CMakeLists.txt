@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.13)
+cmake_minimum_required(VERSION 3.14)
 project(C_Hashmap VERSION 1.0.0)
 
 add_library(Hashmap ${CMAKE_CURRENT_SOURCE_DIR}/src/hashmap.c)
